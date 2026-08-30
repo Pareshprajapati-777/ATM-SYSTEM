@@ -14,7 +14,7 @@ A simple and interactive ATM Management System built using Python and Streamlit.
 * ⚡ Interactive and user-friendly interface using Streamlit
 
 ---
-.
+
 
 ## 🛠️ Technologies Used
 
